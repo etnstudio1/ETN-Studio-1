@@ -1,11 +1,11 @@
 {
   "welcome_folder": {
     "id": "welcome_folder",
-    "name": "🌟 Meri Pehli Folder",
+    "name": "🔒 Meri Pehli Folder (Locked)",
     "type": "folder",
     "parentId": null,
-    "isLocked": false,
-    "lockHash": "",
+    "isLocked": true,
+    "lockHash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
     "lockExpiry": "",
     "thumbnail": ""
   },
