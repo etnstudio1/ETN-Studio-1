@@ -11,10 +11,36 @@
   },
   "welcome_video": {
     "id": "welcome_video",
-    "name": "🎬 Hello Meri Jan! (Test Video)",
+    "name": "🎬 Pehla Video (Inside Locked)",
     "type": "video",
     "parentId": "welcome_folder",
     "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "thumbnail": ""
+  },
+  "second_video": {
+    "id": "second_video",
+    "name": "🎬 Doosra Video (Inside Locked bhi)",
+    "type": "video",
+    "parentId": "welcome_folder",
+    "link": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+    "thumbnail": ""
+  },
+  "fav_folder": {
+    "id": "fav_folder",
+    "name": "❤️ Meri Favourites",
+    "type": "folder",
+    "parentId": null,
+    "isLocked": false,
+    "lockHash": "",
+    "lockExpiry": "",
+    "thumbnail": ""
+  },
+  "intro_video": {
+    "id": "intro_video",
+    "name": "🎬 Meri Jan ka Introduction",
+    "type": "video",
+    "parentId": null,
+    "link": "https://www.youtube.com/watch?v=kJQP7kiw5Fk",
     "thumbnail": ""
   }
 }
