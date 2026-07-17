@@ -7,23 +7,23 @@
     "isLocked": true,
     "lockHash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
     "lockExpiry": "",
-    "thumbnail": "https://png.pngtree.com/png-vector/20250805/ourmid/pngtree-yellow-folder-icon-isolated-on-transparent-background-png-image_16839244.webp"
+    "thumbnail": "https://picsum.photos/seed/locked/300/150"
   },
   "welcome_video": {
     "id": "welcome_video",
-    "name": "🎬 Pehla Video (Inside Locked)",
+    "name": "🎬 Pehla Video (Locked)",
     "type": "video",
     "parentId": "welcome_folder",
     "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    "thumbnail": "https://cdn.prod.website-files.com/6424a84a1a908839d5724077/674db4b94f6966c47d740174_video-thumbnails-1.webp"
+    "thumbnail": "https://picsum.photos/seed/welcome/300/150"
   },
   "second_video": {
     "id": "second_video",
-    "name": "🎬 Doosra Video (Inside Locked bhi)",
+    "name": "🎬 Doosra Video (Locked)",
     "type": "video",
     "parentId": "welcome_folder",
     "link": "https://www.youtube.com/watch?v=9bZkp7q19f0",
-    "thumbnail": "https://cdn.prod.website-files.com/6424a84a1a908839d5724077/674db4b94f6966c47d740174_video-thumbnails-1.webp"
+    "thumbnail": "https://picsum.photos/seed/second/300/150"
   },
   "fav_folder": {
     "id": "fav_folder",
@@ -33,7 +33,7 @@
     "isLocked": false,
     "lockHash": "",
     "lockExpiry": "",
-    "thumbnail": "https://png.pngtree.com/png-vector/20250805/ourmid/pngtree-yellow-folder-icon-isolated-on-transparent-background-png-image_16839244.webp"
+    "thumbnail": "https://picsum.photos/seed/fav/300/150"
   },
   "intro_video": {
     "id": "intro_video",
@@ -41,6 +41,48 @@
     "type": "video",
     "parentId": null,
     "link": "https://www.youtube.com/watch?v=kJQP7kiw5Fk",
-    "thumbnail": "https://cdn.prod.website-files.com/6424a84a1a908839d5724077/674db4b94f6966c47d740174_video-thumbnails-1.webp"
+    "thumbnail": "https://picsum.photos/seed/intro/300/150"
+  },
+  "music_folder": {
+    "id": "music_folder",
+    "name": "🎵 Mere Geet (Songs)",
+    "type": "folder",
+    "parentId": null,
+    "isLocked": false,
+    "lockHash": "",
+    "lockExpiry": "",
+    "thumbnail": "https://picsum.photos/seed/music/300/150"
+  },
+  "song_1": {
+    "id": "song_1",
+    "name": "🎵 Song - Perfect Symphony",
+    "type": "video",
+    "parentId": "music_folder",
+    "link": "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
+    "thumbnail": "https://picsum.photos/seed/song1/300/150"
+  },
+  "song_2": {
+    "id": "song_2",
+    "name": "🎵 Song - Shape of Love",
+    "type": "video",
+    "parentId": "music_folder",
+    "link": "https://www.youtube.com/watch?v=JGwWNGJdvx8",
+    "thumbnail": "https://picsum.photos/seed/song2/300/150"
+  },
+  "comedy_video": {
+    "id": "comedy_video",
+    "name": "😂 Comedy Scene (Maza aa gaya)",
+    "type": "video",
+    "parentId": null,
+    "link": "https://www.youtube.com/watch?v=xvFZjo5PgG0",
+    "thumbnail": "https://picsum.photos/seed/comedy/300/150"
+  },
+  "action_video": {
+    "id": "action_video",
+    "name": "💥 Action Trailer - Dhamaka",
+    "type": "video",
+    "parentId": null,
+    "link": "https://www.youtube.com/watch?v=Qk2s7h3sgE4",
+    "thumbnail": "https://picsum.photos/seed/action/300/150"
   }
 }
