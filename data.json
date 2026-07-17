@@ -1,0 +1,20 @@
+{
+  "welcome_folder": {
+    "id": "welcome_folder",
+    "name": "🌟 Meri Pehli Folder",
+    "type": "folder",
+    "parentId": null,
+    "isLocked": false,
+    "lockHash": "",
+    "lockExpiry": "",
+    "thumbnail": ""
+  },
+  "welcome_video": {
+    "id": "welcome_video",
+    "name": "🎬 Hello Meri Jan! (Test Video)",
+    "type": "video",
+    "parentId": "welcome_folder",
+    "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "thumbnail": ""
+  }
+}
