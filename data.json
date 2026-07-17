@@ -7,7 +7,7 @@
     "isLocked": true,
     "lockHash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
     "lockExpiry": "",
-    "thumbnail": ""
+    "thumbnail": "https://png.pngtree.com/png-vector/20250805/ourmid/pngtree-yellow-folder-icon-isolated-on-transparent-background-png-image_16839244.webp"
   },
   "welcome_video": {
     "id": "welcome_video",
@@ -15,7 +15,7 @@
     "type": "video",
     "parentId": "welcome_folder",
     "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    "thumbnail": ""
+    "thumbnail": "https://cdn.prod.website-files.com/6424a84a1a908839d5724077/674db4b94f6966c47d740174_video-thumbnails-1.webp"
   },
   "second_video": {
     "id": "second_video",
@@ -23,7 +23,7 @@
     "type": "video",
     "parentId": "welcome_folder",
     "link": "https://www.youtube.com/watch?v=9bZkp7q19f0",
-    "thumbnail": ""
+    "thumbnail": "https://cdn.prod.website-files.com/6424a84a1a908839d5724077/674db4b94f6966c47d740174_video-thumbnails-1.webp"
   },
   "fav_folder": {
     "id": "fav_folder",
@@ -33,7 +33,7 @@
     "isLocked": false,
     "lockHash": "",
     "lockExpiry": "",
-    "thumbnail": ""
+    "thumbnail": "https://png.pngtree.com/png-vector/20250805/ourmid/pngtree-yellow-folder-icon-isolated-on-transparent-background-png-image_16839244.webp"
   },
   "intro_video": {
     "id": "intro_video",
@@ -41,6 +41,6 @@
     "type": "video",
     "parentId": null,
     "link": "https://www.youtube.com/watch?v=kJQP7kiw5Fk",
-    "thumbnail": ""
+    "thumbnail": "https://cdn.prod.website-files.com/6424a84a1a908839d5724077/674db4b94f6966c47d740174_video-thumbnails-1.webp"
   }
 }
